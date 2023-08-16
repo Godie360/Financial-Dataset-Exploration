@@ -1,0 +1,1 @@
+A dataset consisting of sales and profit data sorted by market segment and country/region.
